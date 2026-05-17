@@ -21,5 +21,3 @@ This project uses Python's standard library to dynamically generate a web-based 
 4. Use your **mouse** (or touchscreen) to move the paddle left and right.
 5. Keep the ball from falling! The speed increases every 5 hits.
 
-## Screenshots
-*(Simply run the code to see the modern visuals in action!)*
