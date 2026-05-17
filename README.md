@@ -29,4 +29,4 @@ You can easily customize the game by opening `bouncing_ball.py` in your editor:
 - **Speed**: Modify `baseSpeed` in the JavaScript section to make the game start faster or slower.
 
 ## Author
-Designed by Dheeraj.
+Designed by Dheeraj PT
